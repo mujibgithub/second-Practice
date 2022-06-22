@@ -7,6 +7,7 @@ public class SeconPractice {
 		
 		
 		System.out.println("second practice");
+		Sysout.out.println("Jus for practice");
 	}
 
 }
